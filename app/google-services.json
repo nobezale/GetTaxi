@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415231960326",
+    "firebase_url": "https://gettaxi-ee7d1.firebaseio.com",
+    "project_id": "gettaxi-ee7d1",
+    "storage_bucket": "gettaxi-ee7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415231960326:android:3aed55aa6c3d5d3e",
+        "android_client_info": {
+          "package_name": "com.example.bracha.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415231960326-hjpij5bniu94h65vmt6karc58sq9q2a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bracha.myfirstapp",
+            "certificate_hash": "cd167933d5fa0236ef039d024ccdbd617c29520d"
+          }
+        },
+        {
+          "client_id": "415231960326-7g60gjlg6dgr0qrknai0vrnqd3jber59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKEpCLPe3QyVfI5RbQUAhZeGu6nUa8elQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415231960326-7g60gjlg6dgr0qrknai0vrnqd3jber59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
